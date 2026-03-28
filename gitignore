@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+cache/
+output/
+*.pkl
+*.joblib
+.DS_Store
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/
